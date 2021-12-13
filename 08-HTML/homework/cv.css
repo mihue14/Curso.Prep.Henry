@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color:  brown;
+    font-size: 45px;
+}
+
+.subtitulo {
+    color:goldenrod ;
+}
+
+* {
+    background-color:lightgray;
+}
+
+#foto {
+    display: block;
+    margin: auto;
+}
+
+.texto {
+    font-size: 18px;
+}

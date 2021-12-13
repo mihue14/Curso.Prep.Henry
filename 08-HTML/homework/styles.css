@@ -8,11 +8,29 @@ img {
 #thirdDiv{
     width: 500;
     height: 600;
-    background-color: blanchedalmond;
+    background-color: lightblue;
     padding: 50px;
     border: 5px solid dodgerblue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
+    color: white;
+}
+body {
+    background-image: url("https://images.ecestaticos.com/dMBVRf-tk7xQ6uuPHfhtoouWt6E=/0x109:2118x1302/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F476%2Fde1%2Fd37%2F476de1d37f842213f0e2f924749e15d4.jpg");
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+.divClass {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
